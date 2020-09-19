@@ -1,0 +1,21 @@
+{
+  "name": "lamiaprincipessa",
+  "version": "1.0.0",
+  "description": "This is my web save test how to save?",
+  "main": "index.js",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/TimersHamlet/lamiaprincipessa.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/TimersHamlet/lamiaprincipessa/issues"
+  },
+  "homepage": "https://github.com/TimersHamlet/lamiaprincipessa#readme",
+  "dependencies": {
+    "prettier": "^2.1.2"
+  }
+}
