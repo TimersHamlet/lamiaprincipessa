@@ -30,6 +30,11 @@
     "eslint-plugin-react-hooks": "^4.1.2",
     "eslint-plugin-unicorn": "^22.0.0",
     "stylelint": "^13.7.1",
-    "stylelint-config-standard": "^20.0.0"
+    "stylelint-config-rational-order": "^0.1.2",
+    "stylelint-config-standard": "^20.0.0",
+    "stylelint-declaration-block-no-ignored-properties": "^2.3.0",
+    "stylelint-order": "^4.1.0",
+    "webpack": "^4.44.2",
+    "webpack-cli": "^3.3.12"
   }
 }
